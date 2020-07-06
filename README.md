@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**mitsunoir/mitsunoir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mitsunoir is a graduate student in Nagoya University majoring informatics, gonna start to work as a software engineer in Tokyo from next April.
 
-Here are some ideas to get you started:
+## Features
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- sleep ( 6-7 hour / day )
+- eat ( about 2 times / day )
+- dring ( beer / japanese sake / wine )
+- cooking ( good at spagetti )
+- walking ( 1 hour walk / day )
+- programming ( python / js / haskell )
+
+## Upcoming features
+
+- more advanced programming skill
+- mathematical knowledges
+- piano skill
+- growing plants
+
+## Deprecated features
+
+- running
+
+## Performance
+
+see [blog](https://mitsunoir.netlify.app)
