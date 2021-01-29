@@ -7,14 +7,12 @@ mitsunoir is a graduate student in Nagoya University majoring informatics, gonna
 - eat ( about 2 times / day )
 - dring ( beer / japanese sake / wine )
 - cooking ( good at spagetti )
-- walking ( 1 hour walk / day )
-- programming ( python / js / haskell )
+- programming ( python / js / c++ / haskell )
 
 ## Upcoming features
 
 - more advanced programming skill
-- mathematical knowledges
-- piano skill
+- mathematical knowledge
 - growing plants
 
 ## Deprecated features
