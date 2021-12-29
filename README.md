@@ -1,5 +1,4 @@
 
-mitsunoir is a graduate student in Nagoya University majoring informatics, gonna start to work as a software engineer in Tokyo from next April.
 
 ## Features
 
