@@ -4,7 +4,7 @@
 
 - sleep ( 6-7 hour / day )
 - eat ( about 2 times / day )
-- dring ( beer / japanese sake / wine )
+- drink ( beer / japanese sake / wine )
 - cooking ( good at spagetti )
 - programming ( python / js / c++ / haskell )
 
