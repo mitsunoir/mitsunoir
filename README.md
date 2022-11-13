@@ -2,16 +2,15 @@
 
 ## Features
 
-- sleep ( 6-7 hour / day )
+- sleep ( 5-7 hour / day )
 - eat ( about 2 times / day )
 - drink ( beer / japanese sake / wine )
 - cooking ( good at spagetti )
-- programming ( python / js / c++ / haskell )
 
 ## Upcoming features
 
 - more advanced programming skill
-- mathematical knowledge
+- abstract drawings
 - growing plants
 
 ## Deprecated features
