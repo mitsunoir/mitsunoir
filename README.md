@@ -1,22 +1,19 @@
 
-
 ## Features
 
-- sleep ( 5-7 hour / day )
-- eat ( about 2 times / day )
-- drink ( beer / japanese sake / wine )
-- cooking ( good at spagetti )
+- sleep ( 5-7 hour / day, unstable )
+- drink ( beer / sake / wine / whisky, stable )
+- cooking
+- playing games
 
-## Upcoming features
+## Upcoming Features
 
-- more advanced programming skill
-- abstract drawings
-- growing plants
+- advanced software engineering skills
 
-## Deprecated features
+## Deprecated Features
 
-- running
+- an irregular lifestyle
 
-## Performance
+## Activities
 
-see [blog](https://mitsunoir.netlify.app)
+cf. [blog](https://mitsunoir.netlify.app)
